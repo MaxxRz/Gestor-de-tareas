@@ -7,7 +7,7 @@ La aplicación permite agregar nuevas tareas, buscarlas, modificarlas y eliminar
 Fue desarrollado como práctica académica para reforzar conceptos
 fundamentales de programación en Python.
 
-![Evidencia](evidencia/exampl.png)
+![Evidencia](evidencia/exampl.jpg)
 
 ## 🧠 Conceptos aplicados
 - Programación Orientada a Objetos (POO)
@@ -29,3 +29,4 @@ Solo descarga el archivo .exe y ejecútalo.
 No requiere instalación.
 
 ubicado en la carpeta dist
+
